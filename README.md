@@ -27,7 +27,7 @@ This repository contains structured, step-by-step walkthroughs of intentionally 
 ---
 
 ## 📁 Folder Structure
-
+```
 Each machine contains the following:
 machine-name/
 ├── README.md               # Overview of the machine
@@ -36,7 +36,7 @@ machine-name/
 ├── exploitation.md         # Initial access / vulnerability exploitation
 ├── privilege-escalation.md # PrivEsc to root
 └── flags.md                # Captured user/root flags (if any)
-
+```
 
 ---
 
