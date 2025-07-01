@@ -51,5 +51,3 @@ echo "Rooted Metasploitable!" > /root/pwned.txt
 ---
 
 🎉 Congratulations! The Metasploitable VM has been fully compromised and rooted successfully.
-
-```
