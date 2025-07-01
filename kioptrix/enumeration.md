@@ -94,3 +94,7 @@ showmount -e 192.168.1.110
 | 80   | Apache  | Old version, vulnerable. Found `/test.php`, may be injectable. |
 | 111  | RPCBind | NFS or RPC services may be misconfigured.                      |
 | 22   | SSH     | Target for brute-force or post-exploitation access.            |
+
+---
+
+📂 Proceed to [`exploitation.md`](./exploitation.md) to exploit the Apache service and gain a foothold on the machine.
