@@ -30,12 +30,12 @@ This repository contains structured, step-by-step walkthroughs of intentionally 
 
 Each machine contains the following:
 machine-name/
-├── README.md # Overview of the machine
-├── reconnaissance.md # Network discovery and scanning
-├── enumeration.md # In-depth service and web enumeration
-├── exploitation.md # Initial access / vulnerability exploitation
+├── README.md               # Overview of the machine
+├── reconnaissance.md       # Network discovery and scanning
+├── enumeration.md          # In-depth service and web enumeration
+├── exploitation.md         # Initial access / vulnerability exploitation
 ├── privilege-escalation.md # PrivEsc to root
-└── flags.md # Captured user/root flags (if any)
+└── flags.md                # Captured user/root flags (if any)
 
 
 ---
