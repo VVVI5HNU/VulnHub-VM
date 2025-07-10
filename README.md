@@ -1,4 +1,6 @@
 # VulnHub-VM
+This repository contains detailed walkthroughs for three intentionally vulnerable virtual machines hosted on VulnHub: Metasploitable 2, Kioptrix Level 1, and Mr. Robot. Each machine demonstrates real-world vulnerabilities across web applications, misconfigured services, and privilege escalation paths. Ideal for hands-on learning and practice in ethical hacking, CTF prep, and penetration testing.
+
 # 🧱 VulnHub Machine Walkthroughs
 
 This repository contains structured, step-by-step walkthroughs of intentionally vulnerable virtual machines from [VulnHub](https://www.vulnhub.com/). These are aimed at practicing real-world penetration testing, vulnerability assessment, and privilege escalation techniques in a legal and controlled environment.
